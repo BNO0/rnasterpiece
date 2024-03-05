@@ -1,5 +1,5 @@
 # 🏷️ rnasterpiece - 나만의 한글 NFT 플랫폼
-![logo](/uploads/5b202de05967997f4f197d6ad939b48a/logo.png)
+![logo](/frontend/public/logo.png)
 
 
 ## 👉 [rnasterpiece Web Page Link](https://j7a508.p.ssafy.io)
@@ -49,20 +49,21 @@
     - 메타마스크와의 연동을 통해 간편하게 지갑 주소로 회원가입 및 로그인
     
 - ### 한글 단어 합성
-  ![단어 합성](/uploads/e9288738ef588d3f2d398d55f6c193ec/ezgif.com-gif-maker.gif)
+  ![단어 합성](/frontend/public/단어합성.png)
     - 초성, 중성, 종성에 해당하는 칸을 클릭하면 보유중인 자음 및 모음이 표시되고, 클릭하여 사용
     - 음절을 조합하고, 드래그 앤 드랍으로 배치하여 단어 만들기
     - 만들고 싶은 뜻의 단어가 있다면, 사전 UI를 이용하여 한글 단어를 검색 가능
     - 조합된 음절을 분해하려면 드래그하여 분해 영역에 드랍
     
 - ### 한글 NFT 민팅
-  ![꾸미기_민팅](/uploads/383a4312b460c4f7e3a5356bf2b2cb60/꾸미기_민팅.gif)
+  ![꾸미기_민팅](/frontend/public/단어꾸미기.png)
     - 중앙에는 NFT화 할 결과물 미리보기 표시
     - 상단에서 애니메이션 효과 변경 가능
     - 우측에서 폰트, 그림자, 색상의 속성 변경 가능
     
 - ### NFT 거래
-  [시연 gif]
+  ![NFT 거래 등록](/frontend/public/NFT거래_01.png)
+  ![NFT 거래 목록](/frontend/public/NFT거래_02.png)
     - 보유한 NFT를 마이페이지에서 판매 등록 가능
     - NFT List 화면에서 판매 중인 NFT 조회 및 검색 가능
     - BUY 버튼을 통해 해당 NFT 구매 가능
@@ -101,11 +102,6 @@
 - AWS EC2 Ubuntu 20.04 LTS
 - NGINX 
 - Docker 
-
-<br>
-
-## 📐 서비스 아키텍처
-![서비스_아키텍처](/uploads/912dbbe47060217f8a26ad4054c2fe3c/서비스_아키텍처.PNG)
 
 <br>
 
